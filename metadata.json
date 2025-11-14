@@ -1,0 +1,7 @@
+{
+  "name": "Team Inventory Assistant",
+  "description": "An application to help high school football teams manage inventory by visually searching for products and providing a helpful chatbot assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
